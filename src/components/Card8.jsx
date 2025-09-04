@@ -2,7 +2,7 @@ function Card8() {
   return (
     <section>
       <h1>Bref...</h1>
-      <p>Si vous cherchez un développeur motivé, autodidacte,</p>
+      <p>Si vous cherchez un développeur motivé et autodidacte.</p>
       <p>
         Quelqu'un qui aime rire. Car oui, je ris, j'éternue, j'ai des fuites
         ur... Ah non pas encore !

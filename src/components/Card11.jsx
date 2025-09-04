@@ -8,7 +8,7 @@ import {
 function Card11() {
   return (
     <section className="bye">
-      <h1>Aller à très vite ! </h1>
+      <h1>Allez ! À très vite ! </h1>
       <h2>Baptiste Courtadon</h2>
       <div className="coordonnees">
         <p>

@@ -8,7 +8,7 @@ function Card4() {
       </p>
       <p>
         et je souhaite continuer avec le parcours "Développeur d'application
-        JavaScript React"
+        JavaScript React".
       </p>
       <p>
         <strong>Objectif :</strong> Devenir développeur full-stack

@@ -46,7 +46,6 @@ function App() {
         👈️
       </button>
       {cards[index]}
-
       <button onClick={handleNext} disabled={index === cards.length - 1}>
         👉️
       </button>
